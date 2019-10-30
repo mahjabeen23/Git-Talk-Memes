@@ -20,3 +20,6 @@ This is a meme board made to teach people git
 
 
 # GO CRAZY BELOW!!!!! 
+[meme1](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi86OHpqMTlAhVEr3EKHQziA8UQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.lifewire.com%2Fwhat-is-a-meme-2483702&psig=AOvVaw0BPaGG99d6RNn2AGYTW-v7&ust=1572536193643764)
+
+[MEME power](No.jpg)
